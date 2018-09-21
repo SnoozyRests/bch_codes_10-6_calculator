@@ -1,5 +1,5 @@
 # Java BCH-Code(10, 6) Calculator
-Developed for the University of the West of England Cryptography Module (UFCFT4-15-3) coursework.
+Developed for the University of the West of England Cryptography Module (UFCFT4-15-3) coursework.  
 Developed in Intellij.
 
 ## Tests
