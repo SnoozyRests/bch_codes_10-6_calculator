@@ -2,7 +2,8 @@
 Developed for the University of the West of England Cryptography Module (UFCFT4-15-3) coursework.
 Developed in Intellij.
 
-##Tests  
+##Tests 
+ 
 **Passed All Tests 21/09/2018**
 
 In: The input  
